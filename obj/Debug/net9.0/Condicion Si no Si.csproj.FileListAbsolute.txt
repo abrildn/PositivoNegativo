@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\bin\Debug\net9.0\Condicion Si no Si.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\bin\Debug\net9.0\Condicion Si no Si.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\bin\Debug\net9.0\Condicion Si no Si.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\bin\Debug\net9.0\Condicion Si no Si.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\bin\Debug\net9.0\Condicion Si no Si.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\refint\Condicion Si no Si.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\Condicion Si no Si.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Condicion Si no Si\obj\Debug\net9.0\ref\Condicion Si no Si.dll
